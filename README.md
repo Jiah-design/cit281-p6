@@ -9,7 +9,7 @@ Creating a Shape class and extend the class to develop a program that will outpu
 
 Expected output for different shapes
 ![Screenshot](ExpectedOutputForShapes.png)
-[File for Shape class and methods](p6.js)
+[Code for Shape class and methods](p6.js)
 
 
 
